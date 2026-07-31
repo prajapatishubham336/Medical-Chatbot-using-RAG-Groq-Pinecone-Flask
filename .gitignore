@@ -21,3 +21,9 @@ env/
 # OS Files
 .DS_Store
 Thumbs.db
+
+# Packaging
+*.egg-info/
+
+# Testing
+test.py
