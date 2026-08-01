@@ -72,7 +72,8 @@ Medical-Chatbot/
 ### Clone Repository
 
 ```bash
-git clone https://github.com/yourusername/Medical-Chatbot.git
+git clone https:/prajapatishubham336/github.com//
+Medical-Chatbot.git
 
 cd Medical-Chatbot
 ```
